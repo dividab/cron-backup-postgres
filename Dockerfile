@@ -1,4 +1,4 @@
-FROM alpine:3.5
+FROM dividab/cron-backup-base:1.0.0
 
 # Set default variable values
 ENV POSTGRES_HOST **None**
