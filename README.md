@@ -1,4 +1,4 @@
-# cron-postgres-backup
+# cron-backup-postgres
 
 Backup PostgresSQL to FTP or NFS (supports periodic backups)
 
